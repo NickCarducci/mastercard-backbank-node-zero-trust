@@ -12,4 +12,6 @@ b. [Google Cloud Platform OAuth - Cloudflare Zero Trust *(tunnel)*](https://deve
 
 #### *[Self-Hosting with Cloudflare Tunnels (feat Raspberry Pi)](https://jrashford.com/2022/02/15/self-hosting-with-cloudflare-tunnels-feat-raspberry-pi/)*
 
+> If you which to host more than one service on a device, click [here](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide/local/local-management/ingress/) for more [complex ingress config files](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/deployment-guides/kubernetes/).
+
 a. [mastercard-backbank-libnode](https://github.com/NickCarducci/mastercard-backbank-libnode)
