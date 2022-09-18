@@ -1,3 +1,5 @@
+> "Our time is an extremely limited commodity, and I’m always quick to cut the things that aren’t making me happy" - Josh Sherman
+
 b. [Google Cloud Platform OAuth - Cloudflare Zero Trust *(tunnel)*](https://developers.cloudflare.com/cloudflare-one/identity/idp-integration/google/)
 
 > *Token*: Application-services/service account) or OAuth Single-Sign-On (SSO)... [Credentials-only](https://developers.cloudflare.com/cloudflare-one/tutorials/credentials-only/). `cloudflared login`
