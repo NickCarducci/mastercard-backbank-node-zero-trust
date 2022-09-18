@@ -14,6 +14,6 @@ b. [Google Cloud Platform OAuth - Cloudflare Zero Trust *(tunnel)*](https://deve
 
 > If you which to host more than one service on a device, click [here](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide/local/local-management/ingress/) for more [complex ingress config files](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/deployment-guides/kubernetes/).
 
-- microcontroller board server development kit - [Connect through Cloudflare Access using kubectl](https://developers.cloudflare.com/cloudflare-one/tutorials/kubectl/)
+- [microcontroller](https://www.newegg.com/Development-Boards/SubCategory/ID-3739) board server development kit - [Connect through Cloudflare Access using kubectl](https://developers.cloudflare.com/cloudflare-one/tutorials/kubectl/)
 
 a. [mastercard-backbank-libnode](https://github.com/NickCarducci/mastercard-backbank-libnode)
