@@ -6,4 +6,6 @@ b. [Google Cloud Platform OAuth - Cloudflare Zero Trust *(tunnel)*](https://deve
 
 > A browser window should have opened at the following URL: `https://dash.cloudflare.com/argotunnel?callback=`... If the browser failed to open, please visit the URL above directly in your browser. ...Waiting for login... You have successfully logged in. If you wish to copy your credentials to a server, they have been saved to: /Users/you/.cloudflared/cert.pem
 
+### Finally, self-hosting... [using-cloudflare-site-tunneling-with-docker](https://faun.pub/using-cloudflare-site-tunneling-with-docker-20688ad10c3d)
+
 a. [mastercard-backbank-libnode](https://github.com/NickCarducci/mastercard-backbank-libnode)
