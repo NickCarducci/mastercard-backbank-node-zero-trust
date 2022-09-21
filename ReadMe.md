@@ -1,3 +1,5 @@
+[<img align="right" src="https://www.dl.dropboxusercontent.com/s/mpemto5h7bq4vvv/Screen%20Shot%202022-09-21%20at%207.25.37%20AM.png?dl=0" title="reddit self hosted post">](https://www.reddit.com/r/selfhosted/comments/xjl7lz/has_anyone_cloudflared_a_serverless_competitor_to)
+
 > "Our time is an extremely limited commodity, and I’m always quick to cut the things that aren’t making me happy" - Josh [Sherman](https://joshtronic.com/2022/06/05/winding-down-the-vps-showdown/) / [looking for dirt cheap VM hosting](https://www.reddit.com/r/homelab/comments/93rrn0/looking_for_dirt_cheap_vm_hosting/)
 
 b. [Google Cloud Platform OAuth - Cloudflare Zero Trust *(tunnel)*](https://developers.cloudflare.com/cloudflare-one/identity/idp-integration/google/)
