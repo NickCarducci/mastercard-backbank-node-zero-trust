@@ -22,4 +22,6 @@ b. [Google Cloud Platform OAuth - Cloudflare Zero Trust *(tunnel)*](https://deve
 
 For now, I'll try to emulate multiple `ingress IP by cloudflared` on my desktop, and submit my `beta access firebase tokenId users` to my waking hours and potential downtime.
 
+# [hibit.cc](https://hibit.cc)
+
 a. [mastercard-backbank-libnode](https://github.com/NickCarducci/mastercard-backbank-libnode)
